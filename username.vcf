@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;;; ;
+FN:
+ORG:DM Capital GmbH Wesemlinstrasse 4 6006 Lucerne Switzerland
+COMPANY:DM Capital GmbH Wesemlinstrasse 4 6006 Lucerne Switzerland
+TITLE:
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+TEL;TYPE=Work,pref:
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100619326
+URL;TYPE=Website:http://www.primeswisstime.ch/
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:https://wa.me/+41797266502
+
+
+URL;TYPE=Instagram:https://www.instagram.com/primeswisstime/
+
+PHOTO;ENCODING=b:
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
